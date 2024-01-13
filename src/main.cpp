@@ -9,7 +9,7 @@
 double velocidad = 0.1;
 int main()
 {
-    int posicion;
+    int position;
     Hilda hilda(sf::Vector2f(50, 103), sf::Color::Black);
     Cuphead cuphead(sf::Vector2f(3, 445), sf::Color::Red);
     Mugman mugman(sf::Vector2f(20, 445), sf::Color::Blue);
